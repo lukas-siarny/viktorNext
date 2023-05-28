@@ -1,0 +1,17 @@
+{
+    "btn-accept-all": "Prijať všetko",
+    "btn-customize-options": "Nastavenie",
+    "btn-deny": "Odmietnuť",
+    "btn-save-options": "Uložiť možnosti",
+    "modal-description": "Na tomto webe používame súbory cookies, ktoré zlepšujú váš užívateľský komfort, vyhodnocujú používanie webu a presnejšie cielia reklamu na služby, ktoré vás zaujímajú. Môžete ich prijať, odmietnuť alebo si ľubovoľne nastaviť jednotlivé kategórie. S výnimkou potrebných cookies, ktoré sú nevyhnutné, aby tieto stránky správne fungovali. Podrobnosti sa dozviete v Podmienkach používania cookies.",
+    "modal-title": "Rýchlo a jednoducho o cookies",
+    "settings-analytics-cookies": "Analytické cookies",
+    "settings-analytics-text": "Tieto cookies sú usilovnými zberačmi údajov o tom, k čomu naše webové stránky používate, čo navštevujete najčastejšie a čo ste si prezerali. Práve vďaka tomu ich môžeme optimalizovať a zjednodušiť. Všetky získané údaje sú anonymné a vás osobne neidentifikujú.",
+    "settings-functional-cookies": "Funkčné cookies",
+    "settings-functional-text": "Tieto cookies vás osobne neidentifikujú, ale sú vašou aj našou predĺženou pamäťou. Vďaka nim si náš web zapamätá vaše preferencie a vlastne všetko, čo ste si prezerali. A to vrátane vašej geografickej polohy, ktorá je pre nás jasným signálom pri výbere jazyka prezentácie. To všetko dohromady nám umožní množstvo vylepšení, lepšiu prezentáciu a hlavne cielenú ponuku presne na mieru vášmu vkusu.",
+    "settings-marketing": "Marketingové a retargetové cookies",
+    "settings-marketing-text": "Tieto cookies zaznamenávajú vašu aktivitu na našom webe – navštívené stránky a odkazy, na ktoré ste klikli. Cieľom je presnejšie zacielenie reklamy, aby sme vám ponúkali hlavne to, čo vás najviac zaujíma. Slúži tiež na obmedzenie počtu zobrazení reklamy a na meranie účinnosti reklamných kampaní.",
+    "settings-necessary-cookies": "Nevyhnutné cookies",
+    "settings-necessary-text": "Bez týchto cookies sa pri prezeraní našich webových stránok, služieb a aplikácií jednoducho nezaobídete. Nič si nehodíte do košíka, ani si neuložíte vyhľadávanie.",
+    "settings-title": "Nastavenia cookies"
+}

@@ -1,0 +1,12 @@
+{
+    "additionalInfo": "Друга информация",
+    "address": "Адрес",
+    "contactInfo": "Данни за контакт",
+    "field-max-n-characters": "Полето може да съдържа най-много {{n}} знака",
+    "form-submission-error-text": "Грешка",
+    "form-submission-error-title": "Нещо се обърка, опитайте отново.",
+    "form-submission-success-text": "Благодарим ви за попълването на формуляра.",
+    "form-submission-success-title": "Благодарим ви!",
+    "required-field": "Задължително поле",
+    "try-again": "Опитайте отново"
+}

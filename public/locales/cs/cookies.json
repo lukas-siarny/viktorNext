@@ -1,0 +1,17 @@
+{
+    "btn-accept-all": "Přijmout všechno",
+    "btn-customize-options": "Nastavení",
+    "btn-deny": "Odmítnout",
+    "btn-save-options": "Uložit možnosti",
+    "modal-description": "Na tomto webu používáme soubory cookies, které zlepšují váš uživatelský komfort, vyhodnocují používání webu a přesněji cílí reklamu na služby, které vás zajímají. Můžete je přijmout, odmítnout nebo si libovolně nastavit jednotlivé kategorie. S výjimkou nezbytných cookies, které potřebujeme, aby tyto stránky správně fungovaly. Podrobnosti se dozvíte v Podmínkách používání cookies.",
+    "modal-title": "Rychle a snadno o cookies",
+    "settings-analytics-cookies": "Analytické cookies",
+    "settings-analytics-text": "Tyto cookies jsou pilnými sběrači údajů o tom, k čemu naše webové stránky používáte, co navštěvujete nejčastěji a co jste si prohlíželi. Právě díky tomu je můžeme optimalizovat a zjednodušit. Všechny získané údaje jsou anonymní a vás osobně neidentifikují.",
+    "settings-functional-cookies": "Funkční cookies",
+    "settings-functional-text": "Tyto cookies vás osobně neidentifikují, ale jsou vaší i naší prodlouženou pamětí. Díky nim si náš web zapamatuje vaše preference a vlastně všechno, co jste si prohlíželi. A to včetně vaší geografické polohy, která je pro nás jasným signálem při výběru jazyka prezentace. To všechno dohromady nám umožní řadu vylepšení, lepší prezentaci a hlavně cílenou nabídku přesně na míru vašemu vkusu.",
+    "settings-marketing": "Marketingové a retargetové cookies",
+    "settings-marketing-text": "Tyto cookies zaznamenávají vaši aktivitu na našem webu – navštívené stránky a odkazy, na které jste klikli. Cílem je přesnější zacílení reklamy, abychom vám nabízeli hlavně to, co vás nejvíc zajímá. Slouží také k omezení počtu zobrazení reklamy a k měření účinnosti reklamních kampaní.",
+    "settings-necessary-cookies": "Nezbytné cookies",
+    "settings-necessary-text": "Bez těchto cookies se při prohlížení našich webových stránek, služeb a aplikací prostě neobejdete. Nic si nehodíte do košíku, ani si neuložíte vyhledávání.",
+    "settings-title": "Nastavení cookies"
+}

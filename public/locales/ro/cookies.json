@@ -1,0 +1,17 @@
+{
+    "btn-accept-all": "Acceptă toate",
+    "btn-customize-options": "Setări",
+    "btn-deny": "Refuz",
+    "btn-save-options": "Salvare opțiuni",
+    "modal-description": "Acest site web utilizează fișiere tip cookies, care îmbunătățesc experiența utilizatorului, evaluează utilizarea site-ului și țintesc mai precis publicitatea către serviciile care vă interesează. Puteți să acceptați, să refuzați sau să setați categorii individuale după cum doriți.Cu excepția cookie-urilor indispensabile, de care avem nevoie pentru ca site-ul să funcționeze corect. Pentru detalii, consultați Termenii de utilizare a fișierelor cookies.",
+    "modal-title": "Despre cookies, ușor și rapid",
+    "settings-analytics-cookies": "Cookies analitice",
+    "settings-analytics-text": "Aceste cookies colectează date referitoare la modul în care utilizați site-ul nostru web, ce vizitați cel mai des și ce ați vizualizat. Datorită acestui lucru, le putem optimiza și simplifica. Toate datele colectate sunt anonime și nu vă identifică personal.",
+    "settings-functional-cookies": "Cookies funcționale",
+    "settings-functional-text": "Aceste cookies nu vă identifică personal, dar formează o memorie extinsă atât pentru dvs., cât și pentru noi. Datorită acestora, site-ul nostru își amintește preferințele dvs. și tot ce ați vizualizat. Acestea cuprind locația dvs. geografică, care determină limba de prezentare. Toate acestea ne permit să efectuăm o serie de îmbunătățiri, o prezentare mai bună și, mai ales, o ofertă țintită, adaptată gustului dvs.",
+    "settings-marketing": "Cookies de marketing și de retargetare",
+    "settings-marketing-text": "Aceste cookies înregistrează activitatea dvs. pe site-ul nostru – paginile vizitate și link-urile pe care dați clic. Scopul este direcționarea mai precisă a reclamei, astfel încât să vă oferim cu precădere ceea ce vă interesează. De asemenea, servește la limitarea numărului de afișări a reclamelor și la măsurarea eficienței campaniilor publicitare.",
+    "settings-necessary-cookies": "Cookies necesare",
+    "settings-necessary-text": "Aceste cookies sunt indispensabile atunci când vizualizați site-ul nostru web, serviciile și aplicațiile. Nu adăugați nimic în coș și nu salvați căutarea.",
+    "settings-title": "Configurare cookies"
+}
