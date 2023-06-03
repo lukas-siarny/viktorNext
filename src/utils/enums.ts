@@ -1,17 +1,13 @@
 export enum SK_SECTIONS {
-	BENEFITS = 'benefity',
-	HOWTO = 'ako-na-to',
-	RESERVATIONS = 'rezervacny-system',
-	FAQ = 'faq',
-	PARTNERS = 'partners'
+	ABOUT = 'o-nas',
+	WORK = 'praca',
+	CONTACT = 'kontakt'
 }
 
 export enum EN_SECTIONS {
-	BENEFITS = 'benefity',
-	HOWTO = 'ako-na-to',
-	RESERVATIONS = 'rezervacny-system',
-	FAQ = 'faq',
-	PARTNERS = 'partners'
+	ABOUT = 'about-us',
+	WORK = 'work',
+	CONTACT = 'contact'
 }
 
 export const SECTIONS = {

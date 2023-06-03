@@ -2,7 +2,7 @@ import { appWithTranslation } from 'next-i18next'
 import type { AppProps } from 'next/app'
 
 // global styles
-import '../styles/globals.css'
+import '../styles/index.scss'
 
 // MyApp component
 function MyApp({ Component, pageProps }: AppProps) {

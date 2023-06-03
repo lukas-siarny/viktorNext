@@ -2,7 +2,6 @@ import { GetServerSidePropsContext, NextPage } from 'next'
 import { useTranslation } from 'next-i18next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import i18config from '../../i18next-scanner.config'
-import Button from '../components/Button'
 
 export const getStaticProps = async ({ locale }: GetServerSidePropsContext) => {
 	return {
@@ -22,9 +21,9 @@ const NotFoundPage: NextPage = () => {
 				<h2 className={'text-[8rem] font-black leading-none text-neutral-500 md:text-[12rem] lg:text-[16rem]'}>404</h2>
 				<h3 className={'text-4xl font-bold'}>{t('404-oops')}</h3>
 				<h4>{t('404-not-found')}</h4>
-				<Button type={'ghost'} href={'/'} className={'bg-black'}>
+				<a href={'/'} className={'bg-black'}>
 					{t('404-home')}
-				</Button>
+				</a>
 			</div>
 		</div>
 	)

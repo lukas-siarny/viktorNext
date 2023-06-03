@@ -16,11 +16,15 @@
 		"i18next-scanner": "4.0.0",
 		"next": "12.2.5",
 		"next-i18next": "11.3.0",
+		"photoswipe-dynamic-caption-plugin": "1.2.7",
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
-		"react-intersection-observer": "9.4.0"
+		"react-intersection-observer": "9.4.0",
+		"react-photoswipe-gallery": "2.2.7",
+		"yet-another-react-lightbox": "3.10.1"
 	},
 	"devDependencies": {
+		"@goodrequest/eslint-config-typescript-react": "1.2.0",
 		"@svgr/webpack": "6.3.1",
 		"@types/node": "18.6.1",
 		"@types/react": "18.0.15",

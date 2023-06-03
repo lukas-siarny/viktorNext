@@ -11,7 +11,7 @@ module.exports = {
 		trans: false,
 		removeUnusedKeys: true,
 		lngs: ['sk', 'en'],
-		ns: ['loc', 'cookies', 'salesForm'],
+		ns: ['loc'],
 		defaultLng: 'sk',
 		defaultNs: 'loc',
 		defaultValue: '_NEPRELOZENE_',
@@ -22,6 +22,6 @@ module.exports = {
 			lineEnding: '\n'
 		},
 		nsSeparator: ':',
-		keySeparator: '.'
+		keySeparator: '|'
 	}
 }

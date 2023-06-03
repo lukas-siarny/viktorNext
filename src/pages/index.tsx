@@ -3,6 +3,12 @@ import { useTranslation } from 'next-i18next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import Head from 'next/head'
 import i18config from '../../i18next-scanner.config'
+import Header from '../components/Header'
+import Hero from '../components/Hero'
+import About from '../components/About'
+import ContactDivider from '../components/ContactDivider'
+import Gallery from '../components/Gallery'
+import Contact from '../components/Contact'
 
 // components
 
@@ -54,15 +60,13 @@ const Home: NextPage = () => {
 				{/* Viewport */}
 				<meta name='viewport' content='width=device-width, initial-scale=1' />
 			</Head>
-			{/* <Header />
-			<main className='overflow-hidden'>
-				<Hero />
-				<Benefits />
-				<Reservations />
-				<HowTo />
-				<Faq />
-			</main>
-			<Footer /> */}
+			<Header />
+			<Hero />
+			<About />
+			<ContactDivider />
+			<Gallery />
+			<Contact />
+			<ContactDivider />
 		</>
 	)
 }
