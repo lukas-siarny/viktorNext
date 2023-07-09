@@ -3,9 +3,9 @@
 	"version": "1.0.0",
 	"private": true,
 	"scripts": {
-		"dev": "npm-run-all -p translate-watch dev:watch",
+		"dev": "npm-run-all -p dev:watch",
 		"dev:watch": "next dev",
-		"build": "NODE_ENV=production NEXT_APP_VERSION=$npm_package_version next build",
+		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
 		"translate-scan": "i18next-scanner 'src/**/*.{js,jsx,ts,tsx}'",
