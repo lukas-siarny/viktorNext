@@ -147,13 +147,11 @@ const GallerySection = () => {
 
 	const sections = SECTIONS[i18n.language as keyof typeof SECTIONS]
 
-	const handleClick = (index: number, item: IBlurImage) => setIndex(index)
-
 	return (
 		<section className='gallery' id={sections.WORK}>
 			<div className='gallery-content container'>
-				{images.map((image, index) => (
-					<BlurImage key={index} image={image} handleClick={() => handleClick(index, image)} />
+				{images.map((image, i) => (
+					<BlurImage key={i} image={image} handleClick={() => setIndex(i)} />
 				))}
 				<Lightbox slides={slides} open={index >= 0} index={index} close={() => setIndex(-1)} />
 			</div>
